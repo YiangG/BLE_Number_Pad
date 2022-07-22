@@ -32,3 +32,4 @@ You can also customize the keypad by modify the code and the number wrote on the
 ![sw](sw.png)
 
 ### Demo:
+![demo](demo_reduced.gif)
